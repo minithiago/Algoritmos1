@@ -1,6 +1,7 @@
 public class HyperPar {
     public static void main(String[] args) {
-
+        long numero = 2468642;
+        boolean hyperPar = esHyperPar(numero);
     }
 
     public static boolean esHyperPar(long numero) {
