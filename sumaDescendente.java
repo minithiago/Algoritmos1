@@ -6,6 +6,8 @@ public class sumaDescendente {
 
     public static long resultado(long numero){
 
+        //Metodo para saber hacer una suma descendente del numero
+
         long resultado = numero;
         String primero = String.valueOf(numero);
 
